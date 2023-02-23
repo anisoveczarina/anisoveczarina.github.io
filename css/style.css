@@ -1,0 +1,91 @@
+body{
+	background-image:url('https://celes.club/uploads/posts/2022-05/1653268631_8-celes-club-p-fon-dlya-temi-odezhda-krasivie-8.jpg');
+	max-width:950px;
+	margin:0 auto;
+}
+div{
+	
+	padding:5px 15px;
+}
+h4{
+	text-align:center;
+	background-color:#fff2e6;
+}
+.header{
+	border-radius:10px 10px 0 0;
+	margin-top:20px;
+	background-image:url('https://png.pngtree.com/thumb_back/fh260/background/20201010/pngtree-delicate-cute-watercolor-background-image_407971.jpg');
+    min-height:200px;
+	line-height:200px;
+	text-align:center;
+	margin-bottom:10px;
+	-webkit-box-shadow:0 0 10px rgba(0, 0, 0, 0.86);
+box-shadow:	0 0 10px rgba(0, 0, 0, 0.86);
+
+}
+
+.sidebar2{
+	background:white;
+	float:right ;
+	float:top;
+	margin-left:10px;
+	max-width:300px;	
+}
+.container{
+	text-align:justify;
+	background:#ffe6cc;
+	margin-bottom:10px;
+	-webkit-box-shadow:0 0 10px rgba(0, 0, 0, 0.86);
+	box-shadow:	0 0 10px rgba(0, 0, 0, 0.86);
+	
+}
+.footer{
+	font-weight:bold;
+	color: #ffb3d9;
+	background:#fff2cc;
+	min-height:30px;
+	line-height:10px;
+	border-radius:10px 10px 0 0;
+	box-shadow:	0 0 10px rgba(0, 0, 0, 0.86);
+}
+nav ul{
+	flex-direction:column;
+	max-width:35px;
+	margin-left:12px;
+}
+nav li{
+	font-size:16px;
+	display:inline;
+	float:left;
+margin-right:17px
+}
+nav a {
+	color:#dc3545;
+}
+img{
+	width:400px;
+	transform:scale(1);
+	transition:.3s;
+	max-width:60%;
+	float:center;
+	}
+.center{
+	float:center;
+}
+.right{
+	float:right;
+	width:400px;
+}
+img:hover{
+	transform:rotate(40deg);
+	transition-duration: 3s;
+	transform:scale(2);
+}
+.multimedia{
+	overflow: auto;
+	float:center;
+	padding-left:5px;
+	padding-right: 5px;
+	width: 60.6%;
+	
+}
